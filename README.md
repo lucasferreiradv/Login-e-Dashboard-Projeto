@@ -22,6 +22,8 @@ PHP (para validação de login)
 
 SVG para ilustração animada
 
+Chat.js (Usado no gráfico do dashboard)
+
 🎯 Como utilizar
 Clone o repositório:
 
