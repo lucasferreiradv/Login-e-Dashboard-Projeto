@@ -1,7 +1,11 @@
 🖥️ Sistema de Login com Painel de Controle 🚀
+
+
 Este é um projeto simples de Sistema de Login desenvolvido utilizando HTML, Bootstrap 5 e PHP. O objetivo é criar uma interface moderna e responsiva para autenticação de usuários e acesso ao painel de controle.
 
 ✨ Funcionalidades
+
+
 ✅ Tela de login estilizada com Bootstrap e tema escuro 🌑
 ✅ Feedback visual para erro de autenticação ❌
 ✅ Painel informativo com imagem ilustrativa 📊
